@@ -1,10 +1,10 @@
-# 🌍 COVID-19 Vaccination Analysis using Microsoft Fabric & Power BI
+#  COVID-19 Vaccination Analysis using Microsoft Fabric & Power BI
 
 > End-to-end Data Analytics project focused on COVID-19 vaccination trends, global coverage, and vaccine distribution using Microsoft Fabric, SQL, and Power BI.
 
 ---
 
-# 📌 Project Overview
+#  Project Overview
 
 This project analyzes global COVID-19 vaccination data to uncover trends, country-wise vaccination progress, and vaccine manufacturer distribution.
 
@@ -16,14 +16,14 @@ The complete workflow was built inside **Microsoft Fabric**, including:
 
 ---
 
-# 📸 Dashboard Preview
+#  Dashboard Preview
 
 ## Main Dashboard
 [https://github.com/ashish141008-tech/covid19-vaccination-analysis-fabric/blob/main/Covid_Analyst_Dashboard.png]
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 | Technology | Purpose |
 |---|---|
@@ -35,7 +35,7 @@ The complete workflow was built inside **Microsoft Fabric**, including:
 
 ---
 
-# 📂 Dataset Information
+#  Dataset Information
 
 Two datasets were used in this project:
 
@@ -59,7 +59,7 @@ Contains:
 
 ---
 
-# 🚀 Project Workflow
+#  Project Workflow
 
 ## 🔹 Step 1: Created Lakehouse in Microsoft Fabric
 - Uploaded raw CSV files into Fabric Lakehouse
@@ -107,25 +107,25 @@ Built interactive visuals including:
 
 ---
 
-# 📊 Dashboard Features
+#  Dashboard Features
 
-## ✅ KPI Cards
+##  KPI Cards
 - Total Countries
 - Total Vaccinations
 - Total Daily Vaccinations
 
 ---
 
-## ✅ Visualizations
-- 📈 Global Vaccination Trend
-- 🌍 Vaccination Coverage Map
-- 🏆 Top 5 Countries by Vaccination
-- 💉 Global Vaccine Distribution
-- 🎛️ Interactive Country Slicer
+##  Visualizations
+-  Global Vaccination Trend
+-  Vaccination Coverage Map
+-  Top 5 Countries by Vaccination
+-  Global Vaccine Distribution
+-  Interactive Country Slicer
 
 ---
 
-# ⚠️ Challenges Faced & Solutions
+#  Challenges Faced & Solutions
 
 ## 1️⃣ Fabric Permission Restrictions
 ### Problem
