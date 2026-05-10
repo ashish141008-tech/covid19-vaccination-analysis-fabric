@@ -1,4 +1,3 @@
-
 # 🌍 COVID-19 Vaccination Analysis using Microsoft Fabric & Power BI
 
 > End-to-end Data Analytics project focused on COVID-19 vaccination trends, global coverage, and vaccine distribution using Microsoft Fabric, SQL, and Power BI.
@@ -14,6 +13,13 @@ The complete workflow was built inside **Microsoft Fabric**, including:
 - SQL-based data cleaning & analysis
 - Power BI dashboard creation
 - Interactive visual storytelling
+
+---
+
+# 📸 Dashboard Preview
+
+## Main Dashboard
+(Add dashboard screenshot here)
 
 ---
 
