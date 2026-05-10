@@ -19,7 +19,7 @@ The complete workflow was built inside **Microsoft Fabric**, including:
 # 📸 Dashboard Preview
 
 ## Main Dashboard
-(Add dashboard screenshot here)
+[https://github.com/ashish141008-tech/covid19-vaccination-analysis-fabric/blob/main/Covid_Analyst_Dashboard.png]
 
 ---
 
